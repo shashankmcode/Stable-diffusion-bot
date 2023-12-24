@@ -50,7 +50,7 @@ pip install python-telegram-bot==13.7
 1. Run the script:
 
    ```bash
-   python image_generation_bot.py
+   python Bot.py
    ```
 
 2. Start a conversation with the bot on Telegram.
@@ -74,4 +74,4 @@ pip install python-telegram-bot==13.7
 
 This bot is powered by the Stable Diffusion model.
 
-For issues or inquiries, contact Shashank at [shashank@example.com](mailto:shashank@example.com).
+For issues or inquiries, contact Shashank at [shashankhs5242@gmail.com](mailto:shashankhs5242@gmail.com).
